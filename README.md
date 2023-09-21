@@ -10,7 +10,10 @@
     <li>are playful</li>
     <li>don't bite</li>
     <li>like to spend time with people</li>
+   </ul>
+  Guinea pigs also require minimal space as at max, they should take up no more than one room. Compared to cats and dogs, they save a great deal of space. However there are some drawbacks of having a guinea pig instead of more traditional pets.
   </p1>
-
- </body>
+  <h2>Drawbacks to Having a Guineapig</h2>
+  <h3>Fun Facts About Guinea Pigs</h3>
+  <h1>Countries Where Guinea Pigs are Popular</h1>
 </html>
