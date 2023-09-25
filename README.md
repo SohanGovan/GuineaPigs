@@ -3,7 +3,7 @@
   <title>What Makes Guinea Pigs Good Pets?</title>title>
   <h1>What Makes Guinea Pigs Good Pets?</h1>
   <br><br>
-  <img src="https://cdn.pixabay.com/photo/2014/01/11/23/40/guinea-pig-242520_1280.jpg" width="417" height="284">
+  <img src="https://media.istockphoto.com/id/628986384/photo/portrait-of-cute-red-guinea-pig.jpg?s=612x612&w=0&k=20&c=zWQkTGb_wMxTak-TIIRYQbRTFuslmrXDumAuyTcf3-E=" width="417" height="284">
   <p1>Guinea Pigs are one of the most popular small animals to own as a pet, but what makes them one of the best pets? Well to start off, they:  
    <ul>
     <li>are small</li>
