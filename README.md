@@ -13,7 +13,9 @@
    </ul>
   Guinea pigs also require minimal space as at max, they should take up no more than one room. Compared to cats and dogs, they save a great deal of space. However there are some drawbacks of having a guinea pig instead of more traditional pets.
   </p1>
-  <h1>Drawbacks to Having a Guineapig</h1>
+  <h1>Drawbacks to Having Guinea Pigs</h1>
+    <p1>Although guinea pigs are small, they have <strong>HUGE</strong> personalities. Some guinea pigs are really open to bonding with people while others don't bond much. When you get a guinea pig, it really is just a roll of the dice on how your guinea pig will act.</p1>
+    <p2>Another drawback is that guinea pigs require a lot of space, especially since they should never live in just one. Guinea pigs are very social animals which require them to live in groups of two or more. This also requires them to have about 7.5 square feet per guinea pig which would likely result in them recieving their own room.</p2>
   <h1>Fun Facts About Guinea Pigs</h1>
   <h1>Countries Where Guinea Pigs are Popular</h1>
 </html>
