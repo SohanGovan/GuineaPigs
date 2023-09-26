@@ -23,4 +23,16 @@
     </ul>    
   <img src="https://media.npr.org/assets/img/2013/04/02/guineapigfarmcc_slide-9e65efa0322514932754f8fe1373eff75c73110c.jpg" width="417" height="284">
   <h1>Countries Where Guinea Pigs are Popular</h1>
+  <p1>Guinea pigs are a popular pet worlwide, ranging from countries in Asia to countries in South America. The 9 countries with the largest guinea pig populations are:</p1>
+  <ol>
+   <li>USA (3,800,000)</li>
+   <li>Germany (1,570,000)</li>
+   <li>France (870,000)</li>
+   <li>UK (850,000)</li>
+   <li>Spain (500,000)</li>
+   <li>Italy (460,000)</li>
+   <li>Canada (450,000)</li>
+   <li>Australia (290,000)</li>
+   <li>Belgium (140,000)</li>
+  </ol>
 </html>
