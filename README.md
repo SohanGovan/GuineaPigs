@@ -16,7 +16,7 @@
     <p1> Although guinea pigs are small, they have <strong>HUGE</strong> personalities. Some guinea pigs are really open to bonding with people while others don't bond much. When you get a guinea pig, it really is just a roll of the dice on how your guinea pig will act.</p1>
     <p2> Another drawback is that guinea pigs are extremely social. This requires them to live in groups of two or more. While they are social and like to communicate, they can get annoyed with each other, causing them to need their own space. They would need about 7.5 square feet per guinea pig which would likely result in them recieving their own room.</p2>
   <h1>Fun Facts About Guinea Pigs</h1>
-  <iframe width="420" height="315" src="https://youtube.com/embed/BVsoLA4xCx8?si=QRjab1kPZQnPG7Z7?autoplay=1">
+  <iframe width="420" height="315" src="https://youtube.com/embed/BVsoLA4xCx8?si=QRjab1kPZQnPG7Z7">
       </iframe>
     <ul>
       <li>Since guinea pigs are extremely social animals, it is actually illegal to own only one guinea pig in Switzlerland.</li>
