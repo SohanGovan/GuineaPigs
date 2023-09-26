@@ -21,8 +21,10 @@
       <li>Guinea pigs can live in alititues above 14,000 feet in the Andes; this is what causes them to live in the Andes, their natural habitat in South America.</li>
       <li>When guinea pigs get excited, they start running and jumping around doing what is called popcorning.</li>
     </ul>  
-     <iframe width="420" height="315"
+  <body>   
+      <iframe width="420" height="315"
        src="https://youtu.be/BVsoLA4xCx8?si=QRjab1kPZQnPG7Z7?autoplay=1">
       </iframe>
+  </body>
   <h1>Countries Where Guinea Pigs are Popular</h1>
 </html>
