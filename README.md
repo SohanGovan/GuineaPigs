@@ -1,6 +1,6 @@
 <html>
  <body>
-  <title>What Makes Guinea Pigs Good Pets?</title>title>
+  <title>What Makes Guinea Pigs Good Pets?</title>
   <h1>What Makes Guinea Pigs Good Pets?</h1>
   <img src="https://media.istockphoto.com/id/628986384/photo/portrait-of-cute-red-guinea-pig.jpg?s=612x612&w=0&k=20&c=zWQkTGb_wMxTak-TIIRYQbRTFuslmrXDumAuyTcf3-E=" width="417" height="284">
   <p1>  Guinea Pigs, also affectionately known as cavis from their scientifc name <em>Cavia porcellus</em>, are one of the most popular small animals to own as a pet, but what makes them one of the best pets? Well to start off, they:  
