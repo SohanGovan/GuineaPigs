@@ -20,9 +20,10 @@
       <li>Since guinea pigs are extremely social animals, it is actually illegal to own only one guinea pig in Switzlerland.</li>
       <li>Guinea pigs can live in alititues above 14,000 feet in the Andes; this is what causes them to live in the Andes, their natural habitat in South America.</li>
       <li>When guinea pigs get excited, they start running and jumping around doing what is called popcorning.</li>
+      <li><a href="https://www.burgesspetcare.com/blog/guinea-pigs/12-fun-facts-about-gorgeous-guinea-pigs/">More Fun Facts</a></li>
     </ul>    
   <img src="https://media.npr.org/assets/img/2013/04/02/guineapigfarmcc_slide-9e65efa0322514932754f8fe1373eff75c73110c.jpg" width="417" height="284">
-  <h1>Countries Where Guinea Pigs are Popular</h1>
+  <h2>Countries Where Guinea Pigs are Popular</h2>
   <body>
   <p1>Guinea pigs are a popular pet worlwide, ranging from countries in Asia to countries in South America. The 9 countries with the largest guinea pig populations are:</p1>
   <lb><lb>
